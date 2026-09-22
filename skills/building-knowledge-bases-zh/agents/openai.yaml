@@ -1,4 +1,0 @@
-interface:
-  display_name: "AI 持续知识管理（中文版）"
-  short_description: "建立可由 AI 持续读取、沉淀和联动维护的个人知识体系"
-  default_prompt: "使用 $building-knowledge-bases-zh 了解我的真实知识工作，并为我建立或完善一套可持续维护的知识体系。"
